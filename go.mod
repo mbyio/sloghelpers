@@ -5,7 +5,7 @@ go 1.21.4
 require (
 	github.com/google/go-cmp v0.6.0
 	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.0.1
-	github.com/jackc/pgx/v5 v5.5.0
+	github.com/jackc/pgx/v5 v5.5.4
 	go.uber.org/mock v0.3.0
 	google.golang.org/grpc v1.56.3
 )
